@@ -1,0 +1,12 @@
+Autor programu
+
+	Patryk Kozieł
+	nr indeksu 194383
+	
+Program kompilujemy poleceniem gnatmake program.
+
+Działa on w dwóch trybach:
+- ./program verbose - tryb "gadatliwy", nie bieżąco prezentujący komunikaty;
+- ./program quiet - tryb "cichy" z listą opcji komunikatów do wyboru.
+
+Produkty w komunikatach zawsze podawane sa w kolejności dodawanie, odejmowanie, mnożenie.
